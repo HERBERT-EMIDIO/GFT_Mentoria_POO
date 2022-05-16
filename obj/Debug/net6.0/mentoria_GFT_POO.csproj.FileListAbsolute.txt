@@ -1,0 +1,15 @@
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\bin\Debug\net6.0\mentoria_GFT_POO.exe
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\bin\Debug\net6.0\mentoria_GFT_POO.deps.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\bin\Debug\net6.0\mentoria_GFT_POO.runtimeconfig.json
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\bin\Debug\net6.0\mentoria_GFT_POO.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\bin\Debug\net6.0\ref\mentoria_GFT_POO.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\bin\Debug\net6.0\mentoria_GFT_POO.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.csproj.AssemblyReference.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.AssemblyInfoInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.AssemblyInfo.cs
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.csproj.CoreCompileInputs.cache
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\ref\mentoria_GFT_POO.dll
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.pdb
+C:\EstudosProgramacao\Digital_Innovation_One\GFT_startjava.net5_bootcamp\Mentoria_gft\mentoria_GFT_POO\obj\Debug\net6.0\mentoria_GFT_POO.genruntimeconfig.cache
