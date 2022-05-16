@@ -4,7 +4,7 @@
 # 2.Encapsulamento:
 # Encapsular informações que, no momento, não são necessarias ao cliente/consumidor.
 
-# 3.Heranã:
+# 3.Herança:
 # Herdar as caracteristicas  de outra classe
 
-# Poimorfismo - Maneiras diferentes de se comportar utilizando o mesmo método
+# Polimorfismo - Maneiras diferentes de se comportar utilizando o mesmo método
